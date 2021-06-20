@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/borisovai/Documents/AI/Semester 2/RS_Course/Deep-Autoencoders-For-Collaborative-Filtering/checkpoints/model.ckpt"
+all_model_checkpoint_paths: "/home/borisovai/Documents/AI/Semester 2/RS_Course/Deep-Autoencoders-For-Collaborative-Filtering/checkpoints/model.ckpt"
